@@ -1,0 +1,5 @@
+{
+  "name": "Gym Tempo Trainer",
+  "description": "A web-based tempo trainer for gym workouts with configurable exercises, sets, reps, and audio cues to guide your training.",
+  "requestFramePermissions": []
+}
